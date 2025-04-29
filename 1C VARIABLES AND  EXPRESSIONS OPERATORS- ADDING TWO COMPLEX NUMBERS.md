@@ -1,4 +1,4 @@
-**Experiment No: 1c-Varibles and Expressions, Operators -  Finding Speed of a Car**
+**Experiment No: 1c-Varibles and Expressions, Operators - Finding Speed of a Car**
 
 **AIM**
 
