@@ -1,9 +1,11 @@
 **Experiment No: 1c-Varibles and Expressions, Operators -  Finding Speed of a Car**
 
-AIM
+**AIM**
+
 To write a Python program to find the speed of a car based on the given distance (in kilometers) and time (in hours).
 
-## ALGORITHM
+**ALGORITHM**
+
 1. Start the program.
 2. Read the distance covered by the car from the user and convert it to a float.
 3. Read the time taken from the user and convert it to a float.
@@ -23,6 +25,7 @@ print("Speed is","{:.2f}".format(s)+"km/hr")
 
 
 **OUTPUT**
+
 ![image](https://github.com/user-attachments/assets/02d744d1-e9bb-458a-bced-bd80b710a7a1)
 
 
