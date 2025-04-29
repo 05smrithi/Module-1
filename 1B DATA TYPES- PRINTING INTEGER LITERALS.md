@@ -1,16 +1,15 @@
-**Experiment No: 1B- Data Types – Reading and Printing a Complex Number**
+**Experiment No: 1B- Data Types –  Reading and Printing Two Float Values**
 
 **AIM**
 
-To write a Python program to read two integers from the user and print them as a complex number.
+To write a Python program to read and print two float values.
 
 **ALGORITHM** 
 1. Start the program.
-2. Read the real part of the complex number from the user using input() and convert it to an integer.
-3. Read the imaginary part of the complex number from the user using input() and convert it to an integer.
-4. Use the complex() function to combine the two integers into a complex number.
-5. Display the complex number using the print() function.
-6. End the program.
+2. Read the first float value from the user using input() and convert it to float using float().
+3. Read the second float value from the user using input() and convert it to float using float().
+4. Use the print() function to display both float values separated by a space.
+5.  End the program.
 
 **PROGRAM**
 
@@ -18,20 +17,17 @@ To write a Python program to read two integers from the user and print them as a
 
 SMRITHI K**
 
-a=int(input())
-b=int(input())
-c=complex(a,b)
-print(c)
-
-
-
+float_1=float(input())
+float_2=float(input())
+print(float_1,float_2)
 
 **OUTPUT**
 
-![image](https://github.com/user-attachments/assets/52b5f460-59a6-46d9-8df7-42b67ecd44c3)
+![image](https://github.com/user-attachments/assets/53ece4bf-6b41-4be2-961e-d57e3158a318)
+
 
 
 
 **RESULT**
 
-The program to read two integers from the user and print them as a complex number.
+The program to read and print two float values has been implemented and executed successfully.
