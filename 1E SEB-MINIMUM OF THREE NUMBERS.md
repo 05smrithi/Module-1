@@ -25,7 +25,6 @@ print(f"The minimum of {a} and {b} is {min}")
 ![image](https://github.com/user-attachments/assets/6facd2ea-dbaa-4db1-bda4-bf0fcae15b14)
 
 
-
 **RESULT**
 
 Thus program to find the minimum between three integer numbers using a conditional expression (Ternary operator) has been implemented and executed successfully.
