@@ -31,4 +31,5 @@ print("Speed is","{:.2f}".format(s)+"km/hr")
 
 
 **RESULT**
+
 Thus the program to find the speed of a car based on the given distance (in kilometers) and time (in hours) has been implemented and executed successfully.
