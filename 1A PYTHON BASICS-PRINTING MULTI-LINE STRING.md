@@ -46,4 +46,5 @@ print(string_double_quotes)
 
 
 **RESULT**
+
 Thus the program to print the string in multiple lines using triple quotes has been implemented and executed successfully.
