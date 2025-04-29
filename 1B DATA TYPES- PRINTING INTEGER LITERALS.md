@@ -24,6 +24,7 @@ print(float_1,float_2)
 
 
 **OUTPUT**
+
 ![image](https://github.com/user-attachments/assets/53ece4bf-6b41-4be2-961e-d57e3158a318)
 
 
