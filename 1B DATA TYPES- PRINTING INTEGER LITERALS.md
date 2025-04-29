@@ -25,6 +25,7 @@ print(c)
 
 
 
+
 **OUTPUT**
 
 ![image](https://github.com/user-attachments/assets/52b5f460-59a6-46d9-8df7-42b67ecd44c3)
