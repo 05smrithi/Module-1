@@ -30,6 +30,7 @@ else:
 
 
 **RESULT**
+
 Thus the program to read a number and check whether it is divisible by both 5 and 9 using if-else statement has been implemented and executed succssfully.
 
 
