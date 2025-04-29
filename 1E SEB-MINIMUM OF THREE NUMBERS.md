@@ -27,4 +27,4 @@ print(f"The minimum of {a} and {b} is {min}")
 
 **RESULT**
 
-Thus program to find the minimum between three integer numbers using a conditional expression (Ternary operator) has been implemented and executed successfully.
+Thus the program to find the minimum between three integer numbers using a conditional expression (Ternary operator) has been implemented and executed successfully.
