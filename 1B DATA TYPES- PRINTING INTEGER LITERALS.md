@@ -21,8 +21,9 @@ float_1=float(input())
 float_2=float(input())
 print(float_1,float_2)
 
-**OUTPUT**
 
+
+**OUTPUT**
 
 ![image](https://github.com/user-attachments/assets/53ece4bf-6b41-4be2-961e-d57e3158a318)
 
